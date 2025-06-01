@@ -2,7 +2,7 @@
 TDateTime Extension for Day Name Lookup with Offset and Locale
 Use :  
   
-```
+```Pascal
 // How to call it
 uses
   API.DateUtils;
